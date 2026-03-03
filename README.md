@@ -1,2 +1,2 @@
 # Netflix-Clone
-Author: Priyanshu Kumar
+Developer: Priyanshu Kumar
